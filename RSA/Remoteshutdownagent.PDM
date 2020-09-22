@@ -1,0 +1,301 @@
+[Root]
+Most Recent Package=Remote Shutdown
+
+
+[Package|Remote Shutdown|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\rsa\RSA\Package
+
+[Package|Remote Shutdown|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Remote Shutdown|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Remote Shutdown|Files Found]
+
+[Package|Remote Shutdown|Files Released]
+
+[Package|Remote Shutdown|Missing Dependency Information]
+C:\WINNT\system32\ccrpDtp6.ocx=
+C:\WINNT\system32\FM20.DLL=
+
+[Package|Remote Shutdown|Out-of-Date Dependency Information]
+
+[Package|Remote Shutdown|Files Added]
+d:\rsa\rsa\abortregiondata.dat=
+d:\rsa\rsa\aboutregiondata.dat=
+d:\rsa\rsa\button1regiondata.dat=
+d:\rsa\rsa\button2regiondata.dat=
+d:\rsa\rsa\about.bmp=
+d:\rsa\rsa\cmdabortdis.bmp=
+d:\rsa\rsa\cmdabortin.bmp=
+d:\rsa\rsa\cmdabortout.bmp=
+d:\rsa\rsa\cmdaboutin.bmp=
+d:\rsa\rsa\cmdaboutout.bmp=
+d:\rsa\rsa\cmdaddin.bmp=
+d:\rsa\rsa\cmdaddout.bmp=
+d:\rsa\rsa\cmddomainin.bmp=
+d:\rsa\rsa\cmddomainout.bmp=
+d:\rsa\rsa\cmdexecutedis.bmp=
+d:\rsa\rsa\cmdexecutein.bmp=
+d:\rsa\rsa\cmdexecuteout.bmp=
+d:\rsa\rsa\cmdexitdis.bmp=
+d:\rsa\rsa\cmdexitin.bmp=
+d:\rsa\rsa\cmdexitout.bmp=
+d:\rsa\rsa\cmdinfoin.bmp=
+d:\rsa\rsa\cmdinfoout.bmp=
+d:\rsa\rsa\cmdnetsendin.bmp=
+d:\rsa\rsa\cmdnetsendout.bmp=
+d:\rsa\rsa\cmdokin.bmp=
+d:\rsa\rsa\cmdokout.bmp=
+d:\rsa\rsa\cmdpingin.bmp=
+d:\rsa\rsa\cmdpingout.bmp=
+d:\rsa\rsa\cmdrescanin.bmp=
+d:\rsa\rsa\cmdrescanout.bmp=
+d:\rsa\rsa\editpopup.bmp=
+d:\rsa\rsa\executeregiondata.dat=
+d:\rsa\rsa\exitregiondata.dat=
+d:\rsa\rsa\filepopup.bmp=
+d:\rsa\rsa\helppopup.bmp=
+d:\rsa\rsa\mainregiondata.dat=
+d:\rsa\rsa\menuregiondata.dat=
+d:\rsa\rsa\okregiondata.dat=
+d:\rsa\rsa\online.bmp=
+d:\rsa\rsa\onlineregiondata.dat=
+d:\rsa\rsa\optionspopup.bmp=
+d:\rsa\rsa\popupregiondata.dat=
+d:\rsa\rsa\rsa.ico=
+d:\rsa\rsa\rsaform.bmp=
+d:\rsa\rsa\toolspopup.bmp=
+D:\rsa\RSA\cmdStoreIn.bmp=
+D:\rsa\RSA\cmdStoreOut.bmp=
+
+[Package|Remote Shutdown|Files Removed]
+
+[Package|Remote Shutdown|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINNT\system32\ccrpDtp6.ocx=Yes
+C:\WINNT\system32\COMDLG32.OCX=Yes
+C:\WINNT\system32\COMCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\rsa\RSA\Remote Shutdown Agent.exe=Yes
+C:\WINNT\system32\FM20.DLL=Yes
+D:\rsa\RSA\abortRegionData.dat=Yes
+D:\rsa\RSA\AboutRegionData.dat=Yes
+D:\rsa\RSA\Button1RegionData.dat=Yes
+D:\rsa\RSA\Button2RegionData.dat=Yes
+D:\rsa\RSA\ExecuteRegionData.dat=Yes
+D:\rsa\RSA\ExitRegionData.dat=Yes
+D:\rsa\RSA\MainRegionData.dat=Yes
+D:\rsa\RSA\MenuRegionData.dat=Yes
+D:\rsa\RSA\OKRegionData.dat=Yes
+D:\rsa\RSA\OnlineRegionData.dat=Yes
+D:\rsa\RSA\PopupRegionData.dat=Yes
+D:\rsa\RSA\About.bmp=Yes
+D:\rsa\RSA\cmdAbortDis.bmp=Yes
+D:\rsa\RSA\cmdAbortIn.bmp=Yes
+D:\rsa\RSA\cmdAbortOut.bmp=Yes
+D:\rsa\RSA\cmdAboutIn.bmp=Yes
+D:\rsa\RSA\cmdAboutOut.bmp=Yes
+D:\rsa\RSA\cmdAddIn.bmp=Yes
+D:\rsa\RSA\cmdAddOut.bmp=Yes
+D:\rsa\RSA\cmdDomainIn.bmp=Yes
+D:\rsa\RSA\cmdDomainOut.bmp=Yes
+D:\rsa\RSA\cmdExecuteDis.bmp=Yes
+D:\rsa\RSA\cmdExecuteIn.bmp=Yes
+D:\rsa\RSA\cmdExecuteOut.bmp=Yes
+D:\rsa\RSA\cmdExitDis.bmp=Yes
+D:\rsa\RSA\cmdExitIn.bmp=Yes
+D:\rsa\RSA\cmdExitOut.bmp=Yes
+D:\rsa\RSA\cmdInfoIn.bmp=Yes
+D:\rsa\RSA\cmdInfoOut.bmp=Yes
+D:\rsa\RSA\cmdNetSendIn.bmp=Yes
+D:\rsa\RSA\cmdNetSendOut.bmp=Yes
+D:\rsa\RSA\cmdOKIn.bmp=Yes
+D:\rsa\RSA\cmdOKOut.bmp=Yes
+D:\rsa\RSA\cmdPingIn.bmp=Yes
+D:\rsa\RSA\cmdPingOut.bmp=Yes
+D:\rsa\RSA\cmdRescanIn.bmp=Yes
+D:\rsa\RSA\cmdRescanOut.bmp=Yes
+D:\rsa\RSA\EditPopup.bmp=Yes
+D:\rsa\RSA\FilePopup.bmp=Yes
+D:\rsa\RSA\HelpPopup.bmp=Yes
+D:\rsa\RSA\online.bmp=Yes
+D:\rsa\RSA\OptionsPopup.bmp=Yes
+D:\rsa\RSA\RsaForm.bmp=Yes
+D:\rsa\RSA\ToolsPopup.bmp=Yes
+D:\rsa\RSA\Rsa.ico=Yes
+D:\rsa\RSA\cmdStoreIn.bmp=Yes
+D:\rsa\RSA\cmdStoreOut.bmp=Yes
+
+[Package|Remote Shutdown|Configure Registry Files]
+Applicable=No
+
+[Package|Remote Shutdown|Configure Remote Servers]
+Applicable=No
+
+[Package|Remote Shutdown|Install Locations]
+Z:\RSA\Remote Shutdown Agent.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ccrpDtp6.ocx=$(WinSysPath)
+C:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINNT\system32\COMCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\rsa\RSA\Remote Shutdown Agent.exe=$(AppPath)
+C:\WINNT\system32\FM20.DLL=$(WinSysPath)
+D:\rsa\RSA\abortRegionData.dat=$(AppPath)
+D:\rsa\RSA\AboutRegionData.dat=$(AppPath)
+D:\rsa\RSA\Button1RegionData.dat=$(AppPath)
+D:\rsa\RSA\Button2RegionData.dat=$(AppPath)
+D:\rsa\RSA\ExecuteRegionData.dat=$(AppPath)
+D:\rsa\RSA\ExitRegionData.dat=$(AppPath)
+D:\rsa\RSA\MainRegionData.dat=$(AppPath)
+D:\rsa\RSA\MenuRegionData.dat=$(AppPath)
+D:\rsa\RSA\OKRegionData.dat=$(AppPath)
+D:\rsa\RSA\OnlineRegionData.dat=$(AppPath)
+D:\rsa\RSA\PopupRegionData.dat=$(AppPath)
+D:\rsa\RSA\RescanRegionData.dat=$(AppPath)
+D:\rsa\RSA\testRegionData.dat=$(AppPath)
+D:\rsa\RSA\About.bmp=$(AppPath)
+D:\rsa\RSA\cmdAbortDis.bmp=$(AppPath)
+D:\rsa\RSA\cmdAbortIn.bmp=$(AppPath)
+D:\rsa\RSA\cmdAbortOut.bmp=$(AppPath)
+D:\rsa\RSA\cmdAboutIn.bmp=$(AppPath)
+D:\rsa\RSA\cmdAboutOut.bmp=$(AppPath)
+D:\rsa\RSA\cmdAddIn.bmp=$(AppPath)
+D:\rsa\RSA\cmdAddOut.bmp=$(AppPath)
+D:\rsa\RSA\cmdDomainIn.bmp=$(AppPath)
+D:\rsa\RSA\cmdDomainOut.bmp=$(AppPath)
+D:\rsa\RSA\cmdExecuteDis.bmp=$(AppPath)
+D:\rsa\RSA\cmdExecuteIn.bmp=$(AppPath)
+D:\rsa\RSA\cmdExecuteOut.bmp=$(AppPath)
+D:\rsa\RSA\cmdExitDis.bmp=$(AppPath)
+D:\rsa\RSA\cmdExitIn.bmp=$(AppPath)
+D:\rsa\RSA\cmdExitOut.bmp=$(AppPath)
+D:\rsa\RSA\cmdInfoIn.bmp=$(AppPath)
+D:\rsa\RSA\cmdInfoOut.bmp=$(AppPath)
+D:\rsa\RSA\cmdNetSendIn.bmp=$(AppPath)
+D:\rsa\RSA\cmdNetSendOut.bmp=$(AppPath)
+D:\rsa\RSA\cmdOKIn.bmp=$(AppPath)
+D:\rsa\RSA\cmdOKOut.bmp=$(AppPath)
+D:\rsa\RSA\cmdPingIn.bmp=$(AppPath)
+D:\rsa\RSA\cmdPingOut.bmp=$(AppPath)
+D:\rsa\RSA\cmdRescanIn.bmp=$(AppPath)
+D:\rsa\RSA\cmdRescanOut.bmp=$(AppPath)
+D:\rsa\RSA\EditPopup.bmp=$(AppPath)
+D:\rsa\RSA\FilePopup.bmp=$(AppPath)
+D:\rsa\RSA\HelpPopup.bmp=$(AppPath)
+D:\rsa\RSA\online.bmp=$(AppPath)
+D:\rsa\RSA\OptionsPopup.bmp=$(AppPath)
+D:\rsa\RSA\Popup.bmp=$(AppPath)
+D:\rsa\RSA\RsaForm.bmp=$(AppPath)
+D:\rsa\RSA\ToolsPopup.bmp=$(AppPath)
+D:\rsa\RSA\Rsa.ico=$(AppPath)
+D:\rsa\RSA\cmdStoreIn.bmp=$(AppPath)
+D:\rsa\RSA\cmdStoreOut.bmp=$(AppPath)
+
+[Package|Remote Shutdown|Configure Shared Files]
+Applicable=Yes
+Z:\RSA\Remote Shutdown Agent.exe=No
+D:\rsa\RSA\Remote Shutdown Agent.exe=No
+D:\rsa\RSA\AboutRegionData.dat=No
+D:\rsa\RSA\Button1RegionData.dat=No
+D:\rsa\RSA\Button2RegionData.dat=No
+D:\rsa\RSA\ExecuteRegionData.dat=No
+D:\rsa\RSA\ExitRegionData.dat=No
+D:\rsa\RSA\MainRegionData.dat=No
+D:\rsa\RSA\MenuRegionData.dat=No
+D:\rsa\RSA\OKRegionData.dat=No
+D:\rsa\RSA\OnlineRegionData.dat=No
+D:\rsa\RSA\PopupRegionData.dat=No
+D:\rsa\RSA\RescanRegionData.dat=No
+D:\rsa\RSA\About.bmp=No
+D:\rsa\RSA\cmdAbortDis.bmp=No
+D:\rsa\RSA\cmdAbortIn.bmp=No
+D:\rsa\RSA\cmdAbortOut.bmp=No
+D:\rsa\RSA\cmdAboutIn.bmp=No
+D:\rsa\RSA\cmdAboutOut.bmp=No
+D:\rsa\RSA\cmdAddIn.bmp=No
+D:\rsa\RSA\cmdAddOut.bmp=No
+D:\rsa\RSA\cmdDomainIn.bmp=No
+D:\rsa\RSA\cmdDomainOut.bmp=No
+D:\rsa\RSA\cmdExecuteDis.bmp=No
+D:\rsa\RSA\cmdExecuteIn.bmp=No
+D:\rsa\RSA\cmdExecuteOut.bmp=No
+D:\rsa\RSA\cmdExitDis.bmp=No
+D:\rsa\RSA\cmdExitIn.bmp=No
+D:\rsa\RSA\cmdExitOut.bmp=No
+D:\rsa\RSA\cmdInfoIn.bmp=No
+D:\rsa\RSA\cmdInfoOut.bmp=No
+D:\rsa\RSA\cmdNetSendIn.bmp=No
+D:\rsa\RSA\cmdNetSendOut.bmp=No
+D:\rsa\RSA\cmdOKIn.bmp=No
+D:\rsa\RSA\cmdOKOut.bmp=No
+D:\rsa\RSA\cmdPingIn.bmp=No
+D:\rsa\RSA\cmdPingOut.bmp=No
+D:\rsa\RSA\cmdRescanIn.bmp=No
+D:\rsa\RSA\cmdRescanOut.bmp=No
+D:\rsa\RSA\EditPopup.bmp=No
+D:\rsa\RSA\FilePopup.bmp=No
+D:\rsa\RSA\HelpPopup.bmp=No
+D:\rsa\RSA\online.bmp=No
+D:\rsa\RSA\OptionsPopup.bmp=No
+D:\rsa\RSA\Popup.bmp=No
+D:\rsa\RSA\RsaForm.bmp=No
+D:\rsa\RSA\ToolsPopup.bmp=No
+D:\rsa\RSA\abortRegionData.dat=No
+D:\rsa\RSA\Rsa.ico=No
+D:\rsa\RSA\cmdStoreIn.bmp=No
+D:\rsa\RSA\cmdStoreOut.bmp=No
+
+[Package|Remote Shutdown|Distribution]
+Type=single
+Size=
+Title=Remote Shutdown Agent
+
+[Package|Remote Shutdown|Package]
+PackageFolder=D:\rsa\RSA\Package
+ProjectFolder=D:\rsa\RSA
+ServerSideCab=
+File1=D:\rsa\RSA\Package\setup.exe
+File2=D:\rsa\RSA\Package\Setup.Lst
+File3=D:\rsa\RSA\Package\Remote Shutdown Agent.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Remote Shutdown|IconGroups]
+Group0=Remote Shutdown Agent
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Remote Shutdown|Remote Shutdown Agent]
+Icon1="Remote Shutdown Agent.exe"
+Title1=Remote Shutdown Agent
+StartIn1=$(AppPath)
+Key1=Icon1
